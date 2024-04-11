@@ -5,6 +5,7 @@
 
 # Personal ignores
 .vsconfig
+.vscode
 
 /[Ll]ibrary/
 /[Tt]emp/
